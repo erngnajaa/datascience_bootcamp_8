@@ -16,3 +16,5 @@ I learn a lot of stuff related to data science skillls.
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/papawadee-sodsaengchan-51a8ba21a/
